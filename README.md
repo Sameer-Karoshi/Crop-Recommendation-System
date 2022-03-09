@@ -28,10 +28,12 @@ It is observed that Random Forest algorithm was the most efficient. The flow of 
 
 ![alt text](https://github.com/Sameer-Karoshi/Crop-Recommendation-System/blob/main/ScatterPlot%20of%20Different%20Crops(Temp%20Vs%20Rainfall).PNG)
 
+## B. Machine Learning
 1. Imported all required libraries. The sklearn library contains a lot of efficient tools for machine learning and statistical modeling including classification, regression, clustering and dimensionality reduction.
 2. Then we find correlation between parameters using corr() function.Correlation explains how one or more variables are related to each other.
 
 ![alt text](https://github.com/Sameer-Karoshi/Crop-Recommendation-System/blob/main/Correlation.PNG)
+
 3. There are basically 7 input parameters that are features and one output parameter that is label. (This is supervised machine learning so a pair of input & output is always required :) ).
 
 ![alt text](https://github.com/Sameer-Karoshi/Crop-Recommendation-System/blob/main/Features%20and%20Label.PNG)
@@ -49,7 +51,7 @@ Here we can see that amongst these four algorithms random forest works pretty we
 
 ![alt text](https://github.com/Sameer-Karoshi/Crop-Recommendation-System/blob/main/Cross%20Validation%20%26%20saving%20the%20model.PNG)
 
-## Results:
+## C. Results:
 
 ![alt text](https://github.com/Sameer-Karoshi/Crop-Recommendation-System/blob/main/Results.PNG)
  
